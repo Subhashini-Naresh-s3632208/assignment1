@@ -1,20 +1,15 @@
+
+//Written by Subhashini Naresh
+//Student ID: s3632208
+
 package s3632208;
-
-
 
 import s3632205.Game;
 
 import java.util.Scanner;
 
+public class Ozlympic {
 
-
-
-//adi
-public class Ozlympic extends Driver3632208 {
-
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
