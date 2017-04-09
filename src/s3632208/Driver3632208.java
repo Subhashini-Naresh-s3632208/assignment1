@@ -1,14 +1,12 @@
 
-//Written by Subhashini Naresh
-//Student ID: s3632208
-
-package s3632208;
-import s3632205.*;
-import java.util.*;
-
-
-public class Driver3632208
+ 
+ class Driver3632208
 {
+	
+	//Written by Subhashini Naresh
+	//Student ID: s3632208
+
+
 	public Game selectAGame()
 	{
 		Scanner s = new Scanner(System.in);
@@ -168,3 +166,4 @@ public class Driver3632208
 			System.out.println(AthleteDetails.listofAthletes[i].athleteId+"\t  "+AthleteDetails.listofAthletes[i].name+"   \t\t"+AthleteDetails.listofAthletes[i].points);
 	}
 	}
+	
