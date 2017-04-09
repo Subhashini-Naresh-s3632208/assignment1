@@ -1,14 +1,15 @@
 
-//Written by Subhashini Naresh
-//Student ID: s3632208
-
-package s3632208;
-
-import s3632205.Game;
-
+import java.util.*;
 import java.util.Scanner;
+import java.util.Random;
+ 
+ 
+ 
+ class Ozlympic {
+	 
+	 //Written by Subhashini Naresh
+	//Student ID: s3632208
 
-public class Ozlympic {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -86,3 +87,5 @@ public class Ozlympic {
 		}
 	}
 }
+
+ 
